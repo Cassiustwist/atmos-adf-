@@ -90,7 +90,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"method": "GET",
-					"url": "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/RioDeJaneiro/2026-07-20?unitGroup=metric&include=days&key=SUA_API_KEY",
+					"url": "https://kv-atmos-dev-westus2-003.vault.azure.net/secrets/visualcrossing-api-key-dev/063589ddae2147bfa28a526eb18c537d?api-version=7.4",
 					"authentication": {
 						"type": "MSI",
 						"resource": "https://vault.azure.net/"
