@@ -67,7 +67,7 @@
 					"batchCount": 5,
 					"activities": [
 						{
-							"name": "copy_inmet_to_landing ",
+							"name": "copy_inmet_to_landing",
 							"type": "Copy",
 							"dependsOn": [],
 							"policy": {
