@@ -1,0 +1,16 @@
+{
+	"name": "ds_bigquery_estacao_src",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_bigquery_inmet_dev",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "GoogleBigQueryV2Object",
+		"schema": [],
+		"typeProperties": {
+			"dataset": "basedosdados.br_inmet_bdmep",
+			"table": "estacao"
+		}
+	}
+}
