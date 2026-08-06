@@ -15,7 +15,7 @@
 					"type": "Expression"
 				},
 				"folderPath": "@toLower('landing/inmet/estacao')",
-				"fileSystem": "atmos-landing-dev-001"
+				"fileSystem": "atmos-lading-dev-001"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
